@@ -1,6 +1,0 @@
-[2019-4-25 19:57:56] layer "pic_4.png": Duplicate path: pic_4.png
-[2019-4-25 19:57:56] layer "pic_5.png": Duplicate path: pic_5.png
-[2019-4-25 19:57:56] layer "App.google копия": Expected end of input but "\u043A" found.
-[2019-4-25 19:57:56] layer "App.google копия 3": Expected end of input but "\u043A" found.
-[2019-4-25 19:57:56] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
-[2019-4-25 19:57:56] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
